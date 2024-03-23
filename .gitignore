@@ -61,3 +61,4 @@ vc140.pdb
 x64/Debug/bread.pdb
 x64/Release/bread.pdb
 x64/Release/bread.exe
+*.ico
